@@ -16,13 +16,21 @@ const tsoliang = {
     },
     backEnd: {
       python: ['flask', 'django', 'scrapy', 'pip', 'jupyter'],
-      javaScript: ['node', 'ecmaScript', 'express', 'socket.io', 'sinon', 'mocha', 'chai', 'gulp', 'babel', 'webpack', 'npm', 'yarn', 'eslint'],
+      javaScript: [
+        'node', 'ecmaScript', 'express', 'socket.io', 'sinon', 'mocha', 'chai', 'gulp', 'babel',
+        'webpack', 'npm', 'yarn', 'eslint'
+      ],
       java: ['groovy', 'gradle', 'grails', 'dropwizard'],
-      api: ['openapi/swagger', 'jsonapi', 'restful', 'graphql', 'slate', 'apigee', 'jwt', 'oauth2', 'postman'],
+      api: [
+        'openapi/swagger', 'jsonapi', 'restful', 'graphql', 'slate', 'apigee', 'jwt', 'oauth2',
+        'postman'
+      ],
     },
     devOps: {
       shells: ['bash', 'zsh', 'fish'],
-      tools: ['ansible', 'jenkins', 'travisCi', 'vagrant', 'docker', 'elasticsearch', 'rabbitMq', 'aws'],
+      tools: [
+        'ansible', 'jenkins', 'travisCi', 'vagrant', 'docker', 'elasticsearch', 'rabbitMq', 'aws'
+      ],
       os: ['macOs', 'debian', 'centOs', 'ubuntu'],
     },
     databases: ['oracle', 'postgres', 'mongoDb'],
@@ -30,5 +38,3 @@ const tsoliang = {
   },
 }
 ```
-
----
