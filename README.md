@@ -36,5 +36,5 @@ const tsoliang = {
     databases: ['oracle', 'postgres', 'mongoDb'],
     tools: ['vim', 'vscode', 'git', 'drupal', 'jira', 'slack'],
   },
-}
+};
 ```
