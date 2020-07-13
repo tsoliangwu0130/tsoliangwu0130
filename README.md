@@ -10,7 +10,7 @@ const tsoliang = {
   favorites: ['beer', 'lego', 'pokemon'],
   technologies: {
     frontEnd: {
-      languages: ['html', 'css', 'javaScript']
+      languages: ['html', 'css', 'javaScript'],
       tools: ['jekyll', 'jQuery', 'react', 'babel', 'webpack'],
       others: ['rwd', 'seo'],
     },
