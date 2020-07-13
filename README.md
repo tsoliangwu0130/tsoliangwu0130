@@ -6,7 +6,7 @@ const tsoliang = {
   pronouns: 'he' | 'him',
   website: 'https://tsoliangwu.com/',
   email: 'tsoliangwu0130@gmail.com',
-  languages: 'english', 'mandarin', 'taiwanese',
+  languages: ['english', 'mandarin', 'taiwanese'],
   favorites: ['beer', 'lego', 'pokemon'],
   technologies: {
     frontEnd: {
