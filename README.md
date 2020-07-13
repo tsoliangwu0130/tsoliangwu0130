@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tso-Liang! 👋</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tso--Liang%20Wu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsoliangwu/)](https://www.linkedin.com/in/tsoliangwu/) [![Gmail Badge](https://img.shields.io/badge/-tsoliangwu0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tsoliangwu0130@gmail.com)](mailto:tsoliangwu0130@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/tsoliangwu0130.svg?style=flat-square&logo=Github&labelColor=black&color=gray&label=Follow&maxAge=2592000)](https://github.com/tsoliangwu0130?tab=followers)
+[![Linkedin Badge](https://img.shields.io/badge/-Tso--Liang%20Wu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsoliangwu/)](https://www.linkedin.com/in/tsoliangwu/) [![Gmail Badge](https://img.shields.io/badge/-tsoliangwu0130@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tsoliangwu0130@gmail.com)](mailto:tsoliangwu0130@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/tsoliangwu0130.svg?style=flat-square&logo=Github&labelColor=black&color=gray&label=Followers&maxAge=2592000)](https://github.com/tsoliangwu0130?tab=followers)
 
 <h4><em>Software Developer</em></h4>
 
